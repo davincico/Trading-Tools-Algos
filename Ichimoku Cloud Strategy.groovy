@@ -2,7 +2,7 @@
 // © RickSimpson
 
 //@version=5
-indicator('Ichimoku Kinkō hyō 目均衡表', 'Ichimoku Kinkō hyō 目均衡表', overlay=true, max_bars_back=500, max_lines_count=500, max_labels_count=500)
+indicator('Ichimoku Cloud', 'Ichimoku Cloud', overlay=true, max_bars_back=500, max_lines_count=500, max_labels_count=500)
 
 //-----------------------------------------
 //  Ichimoku Cloud Strategy
